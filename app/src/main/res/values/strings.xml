@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memes App</string>
+    <string name="memes_app">Memes App</string>
+    <string name="share">Share</string>
+    <string name="change_theme">Change Theme</string>
+    <string name="next">Next</string>
+    <string name="download">Download</string>
+</resources>
